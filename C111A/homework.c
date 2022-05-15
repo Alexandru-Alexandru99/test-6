@@ -42,5 +42,8 @@ int main()
         printf("hello world!\n");
     }
 
+    int s = 0;
+    int a = 1;
+
     return 0;
 }
