@@ -21,16 +21,14 @@ int main()
         printf("hello world!\n");
     }
 
-    for (int i = 0; i < 100; i++)
-    {
         printf("Hello world!\n");
-        printf("Hello world!\n");
-        printf("Hello world!\n");
-        printf("Hello world!\n");
-        printf("Hello world!\n");
-        printf("Hello world!\n");
-        printf("hello world!\n");
-    }
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("hello world!\n");
+
     for (int i = 0; i < 100; i++)
     {
         printf("Hello world!\n");
@@ -42,8 +40,23 @@ int main()
         printf("hello world!\n");
     }
 
-    int s = 0;
-    int a = 1;
+        printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("Hello world!\n");
+    printf("hello world!\n");
 
+    for (int i = 0; i < 100; i++)
+    {
+        printf("Hello world!\n");
+        printf("Hello world!\n");
+        printf("Hello world!\n");
+        printf("Hello world!\n");
+        printf("Hello world!\n");
+        printf("Hello world!\n");
+        printf("hello world!\n");
+    }
     return 0;
 }
