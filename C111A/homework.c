@@ -65,7 +65,8 @@ int main()
         sum = sum +i;
     }
 
-    
+    while(sum)
+    {}
 
     return 0;
 }
