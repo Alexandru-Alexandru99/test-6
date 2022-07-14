@@ -70,7 +70,7 @@ int main()
         sum = sum/3;
     }
 
-    printf("%d")
+    printf("%d", sum);
 
     return 0;
 }
