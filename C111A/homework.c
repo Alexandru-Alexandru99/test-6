@@ -59,7 +59,7 @@ int main()
         printf("hello world!\n");
     }
 
-    for (int i)
+    for (int i=0;i<n)
 
     return 0;
 }
