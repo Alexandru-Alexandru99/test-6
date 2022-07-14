@@ -61,7 +61,8 @@ int main()
 
     for (int i=0;i<n;i++)
     {
-        printf("Ana are ")
+        printf("Ana are mere");
+        sum
     }
 
     return 0;
