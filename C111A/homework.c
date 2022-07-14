@@ -69,7 +69,8 @@ int main()
     {
         sum = sum/3;
     }
-    
+
+    printf("%d")
 
     return 0;
 }
