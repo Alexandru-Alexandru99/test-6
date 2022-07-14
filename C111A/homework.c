@@ -67,8 +67,9 @@ int main()
 
     while(sum)
     {
-        sum = sum
+        sum = sum/3;
     }
+    
 
     return 0;
 }
